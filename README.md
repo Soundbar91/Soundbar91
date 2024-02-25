@@ -8,4 +8,4 @@
 ![intellijidea](https://img.shields.io/badge/intellij%20idea-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
 
 [![GwanGyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soundbar91&show_icons=true&theme=dark)](https://github.com/Soundbar91/github-readme-stats)--> 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=white0424)](https://solved.ac/white0424)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=white0424)](https://solved.ac/white0424)
