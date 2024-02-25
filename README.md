@@ -3,11 +3,11 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=white0424)](https://solved.ac/white0424)
 
 ## :computer: Skills
-Languages
+### Languages
 
 ![java](https://img.shields.io/badge/java-007396.svg?&style=for-the-badge&logo=java&logoColor=white) 
 
-Platforms
+### Platforms
 
 ![intellijidea](https://img.shields.io/badge/intellij%20idea-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white) 
 
