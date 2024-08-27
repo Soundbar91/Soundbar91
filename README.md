@@ -1,4 +1,10 @@
-<h3 align="center">Study</h3>
+<h3 align="center">My Information</h3>
+<p align="center">
+  Cheongju High School (2017 ~ 2020) <br>
+  KOREATECH, Computer Science and Engineering (2020 ~ now)
+</p>
+
+<h3 align="center">Studying</h3>
 <div align="center">  
 
   <br>
