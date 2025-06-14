@@ -1,11 +1,14 @@
 <h3 align="center">My Information</h3>
 <p align="center">
-  Cheongju High School (2017 ~ 2020) <br>
-  KOREATECH, Computer Science and Engineering (2020 ~ now)
+  Cheongju High School (2017.02. ~ 2020.02.)<br>
+  KOREATECH, Computer Science and Engineering (2020.03 ~ now)<br>
+  BCSD Lab, BackEnd Beginner (2024.03 ~ 2024.08.)<br>
+  BCSD Lab, BackEnd Regular (2024.08. ~ now)<br>
+  BCSD Lab, BackEnd Leader (2025.01 ~ 2025.04.)<br>
 </p>
 
 <h3 align="center">Studying</h3>
-<div align="center">  
+<div align="center"> 
 
   <br>
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">  
