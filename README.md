@@ -1,11 +1,27 @@
 <h3 align="center">My Information</h3>
-<p align="center">
-  Cheongju High School (2017.02. ~ 2020.02.)<br>
-  KOREATECH, Computer Science and Engineering (2020.03 ~ now)<br>
-  BCSD Lab, BackEnd Beginner (2024.03 ~ 2024.08.)<br>
-  BCSD Lab, BackEnd Regular (2024.08. ~ now)<br>
-  BCSD Lab, BackEnd Leader (2025.01 ~ 2025.04.)<br>
-</p>
+<div align="center">
+  <table border="1" cellspacing="0" cellpadding="8">
+    <tr>
+      <th>항목</th>
+      <th>내용</th>
+    </tr>
+    <tr>
+      <td>학력</td>
+      <td>Cheongju High School<br>
+        KOREATECH, Computer Science and Engineering
+      </td>
+    </tr>
+    <tr>
+      <td>동아리</td>
+      <td>
+        BCSD Lab<br>
+        - BackEnd Beginner (2024.03 ~ 2024.08.)<br>
+        - BackEnd Regular (2024.08. ~ 현재)<br>
+        - BackEnd Leader (2025.01 ~ 2025.04.)
+      </td>
+    </tr>
+  </table>
+</div>
 
 <h3 align="center">Studying</h3>
 <div align="center"> 
