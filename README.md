@@ -1,7 +1,7 @@
 <h3 align="center">🛠️ Career</h3>
 <div align="center">
   <p><strong>진학사</strong><br>
-  솔루션 사업부 (2025.07. 예정)</p>
+  솔루션 사업부 (2025.07. ~ 현재)</p>
 
   <p><strong>BCSD Lab</strong><br>
   BackEnd Beginner (2024.03. ~ 2024.08.)<br>
