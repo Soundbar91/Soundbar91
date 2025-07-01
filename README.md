@@ -6,7 +6,7 @@
   <p><strong>BCSD Lab</strong><br>
   BackEnd Beginner (2024.03. ~ 2024.08.)<br>
   BackEnd Regular (2024.08. ~ 현재)<br>
-  BackEnd Leader (2025.01. ~ 2025.0.4)</p>
+  BackEnd Leader (2025.01. ~ 2025.04.)</p>
 </div>
 
 <h3 align="center">📄 Profile</h3>
