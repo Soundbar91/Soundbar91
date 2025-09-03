@@ -15,10 +15,17 @@
     <tr>
       <td align="center"><b>School</b></td>
       <td align="center" colspan="2">
-        KOREATECH, Computer Science and Engineering<br>
+        KOREATECH (Computer Science and Engineering)<br>
         Cheongju High School
       </td>
     </tr>
+      <tr>
+        <td align="center"><b>GPA</b></td>
+        <td align="center" colspan="2">
+          Overall GPA: <b>3.88 / 4.5</b><br>
+          Major GPA: <b>3.92 / 4.5</b>
+        </td>
+      </tr>
     <tr>
       <td align="center"><b>Certificate</b></td>
       <td align="center">정보처리기사</td>
@@ -32,13 +39,30 @@
   </table>
 </div>
 
-<h3 align="center">📚 Studying</h3>
+<h3 align="center">🏅 Awards</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <table>
+    <tr>
+      <td align="center"><b>수상명</b></td>
+      <td align="center"><b>내용</b></td>
+    </tr>
+    <tr>
+      <td align="center">동상</td>
+      <td align="center">제 11회 한국기술교육대학교 프로그래밍 경시 대회</td>
+    </tr>
+    <tr>
+      <td align="center">우수작품상</td>
+      <td align="center">2024년 KOREATECH CSE TECH-IDEA DAY</td>
+    </tr>
+  </table>
+</div>
+
+<h3 align="center">🧰 Tech Stack</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
 </div>
 
 <h3 align="center">🏆 BOJ</h3>
