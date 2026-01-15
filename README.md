@@ -18,7 +18,7 @@
 * **Tech Stack:** `Java`, `Spring Boot`, `JPA`, `MySQL`, `AWS`, `Jenkins`
 
 #### 🔴 대입 성적 산출 인턴십 프로젝트
-* **Description:** 진학사 인턴십 기간 내 수행한 성적 산출 시스템 프로젝트
+* **Description:** 대입 성적 산출 시스템 프로젝트
 * **Period:** 2025.07 ~ 2025.12
 * **Tech Stack:** `TypeScript`, `Next.js`, `NestJS`, `Prisma`, `PostgreSQL`
 
