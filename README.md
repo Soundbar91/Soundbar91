@@ -13,7 +13,7 @@
 ### 💻 Projects
 
 #### 🔵 [코인 - 한기대 커뮤니티](https://koreatech.in/)
-* **Description:** 교내 학생들을 위한 통합 커뮤니티 서비스
+* **Description:** 교내 학생들을 위한 서비스
 * **Period:** 2024.10 ~ 현재
 * **Tech Stack:** `Java`, `Spring Boot`, `JPA`, `MySQL`, `AWS`, `Jenkins`
 
