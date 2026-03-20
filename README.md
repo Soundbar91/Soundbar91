@@ -33,6 +33,7 @@
 | Category | Details | Date |
 | :--- | :--- | :--- |
 | **Certificate** | 정보처리기사 | 2025.06 |
+| **Certificate** | SQLD | 2026.03 |
 | **Language** | TOEIC Speaking **IM3** | 2026.01 |
 | **Award** | KOREATECH 프로그래밍 경시 대회 (동상) | 2024.10 |
 | **Award** | CSE TECH-IDEA DAY (우수작품상) | 2024.11 |
