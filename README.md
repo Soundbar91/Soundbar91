@@ -7,7 +7,8 @@
 
 **[BCSD Lab](https://bcsdlab.com/)** (2024.03 ~ 현재)
 * **BackEnd Developer**
-  * Campus Team (2025.03 ~ 2025.09)
+  * Business Team (2025.05 ~ 2025.08)
+  * Campus Team (2025.03 ~ 2025.07)
   * BackEnd Track Leader (2025.01 ~ 2025.04)
   * User Team (2024.10 ~ 2025.02)
 * 교내 학생 대상 서비스 **[코인(KOIN)](https://koreatech.in/)** 개발 및 유지보수 (**DAU 1,300+**)
