@@ -41,6 +41,11 @@
 
 ---
 
+### 📚 PS
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=white0424)](https://solved.ac/white0424)
+
+---
+
 ### 🎓 Education
 
 * **한국기술교육대학교 (KOREATECH)** | 컴퓨터공학부 졸업유예 (2020.03 ~ 2026.02)
